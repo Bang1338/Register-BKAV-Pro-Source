@@ -27,7 +27,7 @@ jobs:
       uses: microsoft/setup-msbuild@v1.1
 
     - name: Restore Packages
-      run: nuget restore regedit.sln
+      run: nuget restore Register BKAV Pro/regedit.sln
 
     - name: Build solution
-      run: msbuild regedit.sln -t:rebuild -property:Configuration=Release
+      run: msbuild Register BKAV Pro/regedit.sln -t:rebuild -property:Configuration=Release
