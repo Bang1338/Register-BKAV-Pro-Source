@@ -15,7 +15,7 @@ Source code of "Register BKAV Pro" by nhatcntt.
 <p align="center">
   <img src="https://img.shields.io/badge/original language:-idk-gray">
   <img src="https://img.shields.io/badge/language:-csharp-green">
-  <img src="https://img.shields.io/github/languages/top/Bang1338/Register-BKAV-Pro-Sourceb">
+  <img src="https://img.shields.io/github/languages/top/Bang1338/Register-BKAV-Pro-Source">
 </p>
 
 
