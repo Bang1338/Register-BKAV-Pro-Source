@@ -27,7 +27,7 @@ jobs:
       uses: microsoft/setup-msbuild@v1.1
 
     - name: Restore Packages
-      run: nuget restore MySolution.sln
+      run: nuget restore regedit.sln
 
     - name: Build solution
       run: msbuild regedit.sln -t:rebuild -property:Configuration=Release
